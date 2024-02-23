@@ -1,5 +1,5 @@
 {
-    "name": "spekulatius/phpscraper",
+    "name": "wddyousuf/phpscraper",
     "description": "PHPScraper, built with simplicity in mind. See tests/ for more examples.",
     "keywords": [
         "PHP scraper",
@@ -24,10 +24,10 @@
         "ext-intl": "*",
         "symfony/dom-crawler": "^5.4 || ^6.0",
         "donatello-za/rake-php-plus": "^1.0.15",
-        "league/uri": "^7.0",
+        "league/uri": "^7.4.0",
         "symfony/browser-kit": "^6.0",
-        "symfony/http-client": "^6.0",
-        "symfony/css-selector": "^6.0"
+        "symfony/http-client": "^7.0.3",
+        "symfony/css-selector": "^7.0.3"
     },
     "require-dev": {
         "symfony/thanks": "^1.0.0",
